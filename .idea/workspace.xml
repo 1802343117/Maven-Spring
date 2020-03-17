@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="645811e9-d01f-494e-8e3e-61648d6804a3" name="Default Changelist" comment="" />
+    <list default="true" id="645811e9-d01f-494e-8e3e-61648d6804a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/PostDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/config/impl/PostDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ioc/src/test/java/com/soft1851/spring/ioc/app/BookTestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/entity/TestHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/java/com/soft1851/spring/ioc/app/TestHello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ioc/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/beans.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/TestHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/entity/HelloTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -34,34 +61,47 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZEVwXHxUHZh788iTmcSLGhtpGt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.soft1851.spring.ioc.app" />
+      <recent name="com.soft1851.spring.ioc.entity" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.soft1851.spring.ioc.entity" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Maven\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc\config" />
+      <recent name="J:\Maven\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc\config\impl" />
+      <recent name="J:\Maven\SpringStudy\spring-learning\ioc\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="TestHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.entity.TestHello" />
+  <component name="RunManager" selected="Application.BookTest">
+    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.app.BookTest" />
       <module name="ioc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.spring.ioc.entity.*" />
+          <option name="PATTERN" value="com.soft1851.spring.ioc.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,8 +109,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.app.TestHello" />
+      <module name="ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.ioc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.app.TestStudent" />
+      <module name="ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.ioc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTestTest.testBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.spring.ioc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.spring.ioc.app" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.spring.ioc.app.BookTestTest" />
+      <option name="METHOD_NAME" value="testBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookTest" />
+        <item itemvalue="JUnit.BookTestTest.testBook" />
+        <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.TestHello" />
       </list>
     </recent_temporary>
@@ -100,7 +185,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584404481962</updated>
-      <workItem from="1584404490328" duration="2468000" />
+      <workItem from="1584404490328" duration="6420000" />
+      <workItem from="1584445962328" duration="1771000" />
+      <workItem from="1584449128326" duration="2474000" />
     </task>
     <servers />
   </component>
@@ -108,30 +195,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="975" height="190" key="GridCell.Tab.0.bottom" timestamp="1584408154070">
+    <state x="668" y="181" key="#Notifications" timestamp="1584411836585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="975" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584408154070" />
-    <state width="975" height="190" key="GridCell.Tab.0.center" timestamp="1584408154070">
+    <state x="668" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584411836585" />
+    <state x="1228" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1584451159198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="975" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584408154070" />
-    <state width="975" height="190" key="GridCell.Tab.0.left" timestamp="1584408154070">
+    <state x="1228" y="165" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584451159198" />
+    <state x="1203" y="307" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584410538344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="975" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584408154070" />
-    <state width="975" height="190" key="GridCell.Tab.0.right" timestamp="1584408154070">
+    <state x="1203" y="307" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1584410538344" />
+    <state x="1009" y="164" key="FileChooserDialogImpl" timestamp="1584448884317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="975" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584408154070" />
+    <state x="1009" y="164" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584448884317" />
+    <state width="1272" height="243" key="GridCell.Tab.0.bottom" timestamp="1584450304186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584450304186" />
+    <state width="1272" height="243" key="GridCell.Tab.0.center" timestamp="1584450304186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584450304186" />
+    <state width="1272" height="243" key="GridCell.Tab.0.left" timestamp="1584450304186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584450304186" />
+    <state width="1272" height="243" key="GridCell.Tab.0.right" timestamp="1584450304186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584450304186" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584404493271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584404493271" />
-    <state x="1175" y="247" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584407803767">
+    <state x="1175" y="247" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584449635221">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1175" y="247" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584407803767" />
+    <state x="1175" y="247" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584449635220" />
     <state x="669" y="89" key="new project wizard" timestamp="1584406998023">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
