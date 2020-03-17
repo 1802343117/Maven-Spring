@@ -18,5 +18,12 @@
                 <value>编程</value>
             </list>
         </property>
+        <property name="map">
+            <map>
+                <entry key="HTML" value="网页的结构" />
+                <entry key="CSS" value="网页的样式" />
+                <entry key="JavaScript" value="网页的行为" />
+            </map>
+        </property>
     </bean>
 </beans>

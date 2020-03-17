@@ -1,15 +1,22 @@
 package com.soft1851.spring.ioc.entity;
 
-import lombok.Data;
+import com.alibaba.druid.sql.visitor.functions.Char;
+import lombok.*;
 
 import java.security.Timestamp;
 
 @Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
 public class Post {
+
     private Integer postId;
     private Integer forumId;
     private String title;
     private String content;
-    private String thumbnail;
-    private Timestamp createTime;
+    private Char[] thumbnail;
+    private Timestamp postTime;
+
 }
