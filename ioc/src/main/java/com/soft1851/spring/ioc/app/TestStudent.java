@@ -7,6 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class TestStudent {
+
     private static Logger logger = LoggerFactory.getLogger(TestStudent.class);
 
     public static void main(String[] args) {
@@ -15,4 +16,5 @@ public class TestStudent {
         Student student = (Student) ac.getBean("student");
         logger.info(student.toString());
     }
+
 }

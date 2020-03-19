@@ -1,4 +1,2 @@
-2020-03-17.21:41:49 INFO  [main] com.soft1851.spring.ioc.app.TestStudent.main:13  开始测试
-2020-03-17.21:41:50 INFO  [main] com.soft1851.spring.ioc.app.TestStudent.main:16  Student{id=1001, name='Tom', hobbies=[打游戏, 运动, 编程], map={语文=88, 数学=87, 外语=88}}
-2020-03-17.21:48:02 INFO  [main] com.soft1851.spring.ioc.app.TestStudent.main:13  开始测试
-2020-03-17.21:48:03 INFO  [main] com.soft1851.spring.ioc.app.TestStudent.main:16  Student{id=1001, name='Tom', hobbies=[打游戏, 运动, 编程], map={HTML=网页的结构, CSS=网页的样式, JavaScript=网页的行为}}
+2020-03-19.17:46:12 INFO  [main] com.soft1851.spring.ioc.app.TestStudent.main:14  开始测试
+2020-03-19.17:46:13 INFO  [main] com.soft1851.spring.ioc.app.TestStudent.main:17  Student{id=1001, name='Tom', set=null, hobbies=[打游戏, 运动, 编程], map={HTML=网页的结构, CSS=网页的样式, JavaScript=网页的行为}}

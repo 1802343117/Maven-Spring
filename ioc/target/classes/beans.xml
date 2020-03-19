@@ -26,4 +26,6 @@
             </map>
         </property>
     </bean>
+
+    <bean id="sort" class="com.soft1851.spring.ioc.entity.Sort"/>
 </beans>
