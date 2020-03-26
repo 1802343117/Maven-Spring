@@ -7,9 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ioc" />
+        <module name="webComment" />
+        <module name="web" />
         <module name="orm" />
         <module name="aop" />
-        <module name="web" />
       </profile>
     </annotationProcessing>
   </component>

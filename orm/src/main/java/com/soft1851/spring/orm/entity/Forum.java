@@ -17,5 +17,4 @@ import lombok.*;
 public class Forum {
     private Integer forumId;
     private String forumName;
-
 }
