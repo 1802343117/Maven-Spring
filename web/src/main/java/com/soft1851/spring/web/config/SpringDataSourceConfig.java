@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 
 @Configuration
 @ComponentScan("com.soft1851.spring.web")
@@ -27,6 +28,10 @@ public class SpringDataSourceConfig {
         druidDataSource.setMaxWait(60000);
         // 配置一个连接在池中最小生存的时间，单位是毫秒
         druidDataSource.setMinEvictableIdleTimeMillis(300000);
+        // 禁止自动提交，实现事务管理
+        druidDataSource.setDefaultAutoCommit(false);
+        // 设置连接池启动预处理事务集
+        druidDataSource.setPoolPreparedStatements(true);
         return druidDataSource;
     }
 
@@ -34,4 +39,14 @@ public class SpringDataSourceConfig {
     public JdbcTemplate jdbcTemplate(){
         return new JdbcTemplate(druidDataSource());
     }
+
+    /**
+     * 装配事务管理器
+     *
+     * */
+    @Bean
+    public DataSourceTransactionManager dataSourceTransactionManager(DruidDataSource druidDataSource) {
+        return new DataSourceTransactionManager(druidDataSource);
+    }
 }
+

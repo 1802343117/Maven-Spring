@@ -15,10 +15,7 @@
     </parent>
     <dependencies>
 <!--        WebJars 前端外部架包-->
-      <dependency>
-            <groupId>org.webjars</groupId>
-            <artifactId>bootstrap</artifactId>
-            <version>4.4.1-1</version>
-      </dependency>
+
+
     </dependencies>
 </project>

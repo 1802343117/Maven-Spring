@@ -12,5 +12,5 @@ import lombok.NoArgsConstructor;
 public class LOL {
     private Integer lolId;
     private String heroName;
-    private String Url;
+    private String url;
 }
