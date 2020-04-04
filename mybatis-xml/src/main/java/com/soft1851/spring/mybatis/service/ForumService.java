@@ -1,6 +1,6 @@
 package com.soft1851.spring.mybatis.service;
 
-import com.soft1851.spring.mybatis.entity.Forum;
+import com.soft1851.spring.mybatis.domain.entity.Forum;
 
 import java.util.List;
 

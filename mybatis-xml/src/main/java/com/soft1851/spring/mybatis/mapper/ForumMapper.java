@@ -1,9 +1,18 @@
 package com.soft1851.spring.mybatis.mapper;
 
-import com.soft1851.spring.mybatis.entity.Forum;
+import com.soft1851.spring.mybatis.domain.entity.Forum;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
+/**
+ * @author xunmi
+ * @ClassName ForumMapper
+ * @Description TODO
+ * @Date 2020/3/30
+ * @Version 1.0
+ **/
+@Transactional(rollbackFor = Exception.class)
 public interface ForumMapper {
     /**
      * 新增实体

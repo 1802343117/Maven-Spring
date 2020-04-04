@@ -12,10 +12,15 @@
 
     <modules>
         <module>ioc</module>
+        <module>aop</module>
         <module>orm</module>
         <module>aop</module>
         <module>web</module>
         <module>webComment</module>
+        <module>mybatis-xml</module>
+        <module>jdbc-annotation</module>
+        <module>jdbc-xml</module>
+        <module>mybatis-annotation</module>
     </modules>
 
     <properties>
@@ -32,7 +37,8 @@
         <slf4j.version>1.7.30</slf4j.version>
         <druid.version>1.1.21</druid.version>
         <fastjson.version>1.2.66</fastjson.version>
-<!--        <jackson.version>2.10.3</jackson.version>-->
+        <mybatis.version>3.5.4</mybatis.version>
+        <spring-mybatis.version>2.0.4</spring-mybatis.version>
     </properties>
 
     <dependencies>
@@ -51,7 +57,6 @@
             <version>4.12</version>
             <scope>test</scope>
         </dependency>
-
         <!--Spring-test模块依赖-->
         <dependency>
             <groupId>org.springframework</groupId>
@@ -100,38 +105,38 @@
             <version>${druid.version}</version>
         </dependency>
 
-<!--        Spring 事务-->
+        <!-- String事务 -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-tx</artifactId>
             <version>${spring.version}</version>
         </dependency>
 
-<!--        Spring MVC-->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-web</artifactId>
-            <version>${spring.version}</version>
-        </dependency>
-
-<!--        Spring WebMvc-->
+        <!-- Spring WebMvc -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
             <version>${spring.version}</version>
         </dependency>
 
-<!--        https://mvnrepository.com/artifact/com.alibaba/fastion-->
+        <!-- fastjson -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>${fastjson.version}</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.thymeleaf/thymeleaf-spring5 -->
         <dependency>
             <groupId>org.thymeleaf</groupId>
             <artifactId>thymeleaf-spring5</artifactId>
             <version>3.0.11.RELEASE</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.webjars</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>4.4.1-1</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
@@ -155,11 +160,44 @@
             <version>2.36.0</version>
         </dependency>
 
+        <!-- annotation依赖，用于实用@Resource注解 -->
         <dependency>
-            <groupId>org.webjars</groupId>
-            <artifactId>bootstrap</artifactId>
-            <version>4.4.1-1</version>
+            <groupId>javax.annotation</groupId>
+            <artifactId>javax.annotation-api</artifactId>
+            <version>1.3.2</version>
+        </dependency>
+
+        <!-- Mybatis -->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>${mybatis.version}</version>
+        </dependency>
+        <!--Spring整合Mybatis依赖-->
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis-spring</artifactId>
+            <version>${spring-mybatis.version}</version>
+        </dependency>
+        <!--切面配置所需的aop和aspects依赖-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aop</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aspects</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+
+<!--        爬虫所需依赖-->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>2.44.0</version>
         </dependency>
 
     </dependencies>
+
 </project>

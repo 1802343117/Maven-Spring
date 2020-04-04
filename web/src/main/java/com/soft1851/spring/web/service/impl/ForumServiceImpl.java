@@ -8,6 +8,9 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/**
+ * @author 12559
+ */
 @Service
 public class ForumServiceImpl implements ForumService {
     @Autowired
@@ -19,7 +22,7 @@ public class ForumServiceImpl implements ForumService {
     }
 
     @Override
-    public Forum getForum(int forumid) {
-        return forumDao.get(forumid);
+    public Forum getForum(int forumId) {
+        return forumDao.get(forumId);
     }
 }

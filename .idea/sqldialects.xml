@@ -2,5 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/webComment/src/main/java/com/soft1851/spring/web/dao/Impl/TopicDaoImpl.java" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>

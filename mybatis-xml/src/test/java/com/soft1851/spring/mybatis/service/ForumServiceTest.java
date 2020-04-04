@@ -1,20 +1,13 @@
 package com.soft1851.spring.mybatis.service;
 
-import com.soft1851.spring.mybatis.entity.Forum;
+import com.soft1851.spring.mybatis.domain.entity.Forum;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import javax.annotation.Resource;
-
 import java.util.List;
-
-/**
- * @Author xuyuan
- * @Date 2020/3/30 21:36
- * @Version 1.0
- */
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = {"/spring-mybatis.xml"})
@@ -35,7 +28,7 @@ public class ForumServiceTest {
 
     @Test
     public void update() {
-        Forum forum = Forum.builder().forumId(3).forumName("新名词").build();
+        Forum forum = Forum.builder().forumId(5).forumName("新名词").build();
         forumService.update(forum);
     }
 

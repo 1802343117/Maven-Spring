@@ -10,6 +10,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
         <option value="$PROJECT_DIR$/webComment/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-xml/pom.xml" />
       </list>
     </option>
   </component>
