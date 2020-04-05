@@ -7,81 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="645811e9-d01f-494e-8e3e-61648d6804a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mybatis_xml_war_exploded2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6199ed85-b2b6-42c5-a2c6-e83ba7343fc5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/6199ed85-b2b6-42c5-a2c6-e83ba7343fc5/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orm/src/main/java/com/soft1851/spring/orm/config/hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/beans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/BookTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/SortTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/TestHello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/app/TestStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/SortConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/config/StudentConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/entity/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/com/soft1851/spring/ioc/other/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/app/BookTestTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/config/SortConfigTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/config/StudentConfigTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioc/target/test-classes/com/soft1851/spring/ioc/entity/HelloTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/error.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/main.2020-03-17-10.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/main.2020-03-17-21.log.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/main.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/mybatis-xml.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/entity/Forum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/mapper/ForumMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/service/ForumService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis/service/Impl/ForumServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/logback-test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mappers/ForumMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/main/resources/spring-mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-xml/src/test/java/com/soft1851/spring/mybatis/service/ForumServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/app/DataSourceConfigTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/config/DataSourceConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/dao/ForumDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/dao/PostDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/dao/impl/ForumDaoImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/dao/impl/ForumDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/dao/impl/PostDaoImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/dao/impl/PostDaoImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/entity/Forum$ForumBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/entity/Forum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/entity/Post$PostBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/orm/target/classes/com/soft1851/spring/orm/entity/Post.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/web/service/impl/ForumServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/web/src/main/java/com/soft1851/spring/web/service/impl/ForumServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/src/main/resources/logback.xml.tld" beforeDir="false" afterPath="$PROJECT_DIR$/web/target/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/target/classes/META-INF/web.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/target/classes/logback.xml.tld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/target/test-classes/META-INF/web.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webComment/target/classes/META-INF/webComment.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webComment/target/test-classes/META-INF/webComment.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webComment/src/test/java/com/soft1851/spring/web/service/MusicServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/webComment/src/test/java/com/soft1851/spring/web/service/MusicServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,16 +119,13 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="11.0.5" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/mybatis-xml/src/main/java/com/soft1851/spring/mybatis" />
-    <property name="last_opened_file_path" value="J:/应用下载/selenium-java-3.141.59/libs/okio-1.14.0.jar!/" />
+    <property name="last_opened_file_path" value="G:/fifth-group" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.soft1851.spring.web.dao.Impl" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.soft1851.spring.web.dao" />
       <recent name="com.soft1851.spring.web.service" />
@@ -213,6 +139,13 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.soft1851.spring.ioc.entity" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Maven\SpringStudy\spring-learning" />
+      <recent name="J:\Maven\SpringStudy\spring-learning\mybatis-xml\src\main\resources" />
+      <recent name="J:\Maven\SpringStudy\spring-learning\webComment\src\main\resources\templates" />
+      <recent name="J:\Maven\SpringStudy\spring-learning\orm\src\main\resources" />
+      <recent name="J:\Maven\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc\entity" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="J:\Maven\SpringStudy\spring-learning\mybatis-annotation\src\main\java\com\soft1851\spring\mybatis\config" />
       <recent name="J:\Maven\SpringStudy\spring-learning\mybatis-annotation\src\main\java\com\soft1851\spring\mybatis\entity" />
@@ -225,12 +158,8 @@
       <recent name="com.soft1851.spring.mybatis.entity" />
       <recent name="com.soft1851.spring.web.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="J:\Maven\SpringStudy\spring-learning\mybatis-xml\src\main\resources" />
-      <recent name="J:\Maven\SpringStudy\spring-learning\webComment\src\main\resources\templates" />
-      <recent name="J:\Maven\SpringStudy\spring-learning\orm\src\main\resources" />
-      <recent name="J:\Maven\SpringStudy\spring-learning\ioc\src\main\java\com\soft1851\spring\ioc\entity" />
-      <recent name="J:\Maven\SpringStudy\spring-learning\ioc\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.soft1851.spring.web.dao.Impl" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.MusicDaoTest.truncate">
@@ -448,15 +377,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:test@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@4291b118" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -514,7 +434,8 @@
       <workItem from="1585898869777" duration="18394000" />
       <workItem from="1585972665067" duration="7282000" />
       <workItem from="1586013560205" duration="3630000" />
-      <workItem from="1586019970521" duration="138000" />
+      <workItem from="1586019970521" duration="3002000" />
+      <workItem from="1586054665595" duration="5822000" />
     </task>
     <servers />
   </component>
@@ -590,10 +511,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="884" y="248" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585727175388" />
-    <state x="1291" y="139" key="FileChooserDialogImpl" timestamp="1585844727668">
+    <state x="1291" y="139" key="FileChooserDialogImpl" timestamp="1586054732572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1291" y="139" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585844727668" />
+    <state x="1291" y="139" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586054732572" />
     <state width="1877" height="291" key="GridCell.Tab.0.bottom" timestamp="1586017198343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -698,10 +619,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1074" y="261" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585733023999" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586019974217">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586054687092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586019974217" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586054687092" />
     <state x="530" y="165" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1585019172407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

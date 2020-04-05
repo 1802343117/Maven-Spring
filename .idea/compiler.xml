@@ -9,11 +9,11 @@
         <module name="web" />
         <module name="ioc" />
         <module name="mybatis" />
+        <module name="jdbc-annotation" />
         <module name="jdbc-xml" />
         <module name="mybatis-annotation" />
         <module name="aop" />
         <module name="mybatis-xml" />
-        <module name="jdbc-annotation" />
         <module name="orm" />
         <module name="webComment" />
       </profile>
