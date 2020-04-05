@@ -6,12 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645811e9-d01f-494e-8e3e-61648d6804a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webComment/src/test/java/com/soft1851/spring/web/service/MusicServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/webComment/src/test/java/com/soft1851/spring/web/service/MusicServiceTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="645811e9-d01f-494e-8e3e-61648d6804a3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -435,7 +430,7 @@
       <workItem from="1585972665067" duration="7282000" />
       <workItem from="1586013560205" duration="3630000" />
       <workItem from="1586019970521" duration="3002000" />
-      <workItem from="1586054665595" duration="5822000" />
+      <workItem from="1586054665595" duration="6011000" />
     </task>
     <servers />
   </component>
